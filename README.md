@@ -1,6 +1,7 @@
 Molly Cover
 ===========
-# Freelance Photographer, Multi-Media Designer, Image Specialist, & Web Developer
+### Freelance Photographer, Multi-Media Designer, Image Specialist, & Web Developer
+
 * Photographer with 15+ years photographing people, pets, events, objects, nature, landscapes, abstracts, and travel
 * MultiMedia Designer with 10+ years of designing and preparing print and digital creative 
 * Image Specialist with 10+ years of selecting, editing, cropping, compositing, presenting, and archiving imagery
