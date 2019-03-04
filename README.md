@@ -13,5 +13,5 @@ Advanced Photoshop artistry combined with ongoing education in InDesign and Illu
 
 Beginner Front-End Web Developer attending Upstream Coding Workshop and gaining knowledge in CSS, HTML, and Java
 
-[Visit my LinkenIn profile] for more career details (https://www.linkedin.com/in/molly-cover-2614488a/)
+[Visit my LinkenIn profile](https://www.linkedin.com/in/molly-cover-2614488a/) for more career details 
 [View a portfolio of my work] (https://mollycover.myportfolio.com)
